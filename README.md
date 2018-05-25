@@ -1,0 +1,2 @@
+# reducer
+like vuex
